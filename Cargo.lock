@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "SimpleWebApp"
+name = "simple_web_app"
 version = "0.1.0"
